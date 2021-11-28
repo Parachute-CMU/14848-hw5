@@ -49,4 +49,4 @@ object WordCount {
 }
 ```
 ### Copy of the output
-[link](https://raw.githubusercontent.com/Parachute-CMU/14848-hw5/master/result/part-00000)
+**result/part-00000**
